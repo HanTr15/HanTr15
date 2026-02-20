@@ -1,45 +1,21 @@
-<h1 align="center">Hi 👋 I'm HanTr15</h1>
-<h3 align="center">Cyber Security Enthusiast | CTF Player | Web Exploitation Learner</h3>
-
----
-
-## 🕹 About Me
-
-- 🔐 Focused on Web Security & Binary Exploitation
-- 🧠 Learning through HTB & CTF Challenges
-- 🐧 Linux Enjoyer
-- 🚀 Building Projects with React & TypeScript
-
----
-
-## 👾 Pacman Contribution Animation
+<h1 align="center">HanTr15</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+Cyber Security Enthusiast • CTF Player • Web Exploitation Learner
 </p>
 
 ---
 
-## 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,js,ts,react,nodejs,git,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AAAAAA&center=true&vCenter=true&width=435&lines=Eat.+Sleep.+Hack.+Repeat.;Learning+Web+Exploitation;Binary+Reverse+Engineering;Building+Cyber+Tools" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanTr15&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanTr15&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Current Focus
+## 🧠 Focus
 
 ```bash
-> learning web exploitation
-> practicing binary reverse engineering
-> building personal cyber tools
+> Web Security
+> Binary Exploitation
+> Reverse Engineering
+> Linux
